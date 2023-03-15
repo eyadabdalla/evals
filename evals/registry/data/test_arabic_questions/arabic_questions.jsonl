@@ -1,0 +1,7 @@
+{"input": [{"role": "system", "content": "Complete the phrase in arabic as concisely as possible."}, {"role": "user", "content": " اسم عميد الأدب العربي هو"}], "ideal": "طه حسين"}
+    {"input": [{"role": "system", "content": "Complete the phrase in arabic as concisely as possible."}, {"role": "user", "content": "عدد الحروف في اللغة العربية"}], "ideal": "28"}
+    {"input": [{"role": "system", "content": "Complete the phrase in arabic as concisely as possible."}, {"role": "user", "content": " عدد الأصوات في اللغة العربية"}], "ideal": "38"}
+    {"input": [{"role": "system", "content": "Complete the phrase in arabic as concisely as possible."}, {"role": "user", "content": "صاحب قصيدة البردة الشهيرة"}], "ideal": "كعب بن زهير"}
+    {"input": [{"role": "system", "content": "Complete the phrase in arabic as concisely as possible."}, {"role": "user", "content": " معني اسم عنترة فى اللغة العربية "}], "ideal": "الذباب الأزرق"}
+    {"input": [{"role": "system", "content": "Complete the phrase in arabic as concisely as possible."}, {"role": "user", "content": "اليراع في اللغة العربية هو"}], "ideal": "القلم"}
+    {"input": [{"role": "system", "content": "Complete the phrase in arabic as concisely as possible."}, {"role": "user", "content": "جمع كلمة عندليب هو"}], "ideal": "عنادل"}

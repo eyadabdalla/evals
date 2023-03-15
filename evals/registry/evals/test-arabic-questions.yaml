@@ -1,0 +1,8 @@
+test-includes:
+  id: test-arabic-questions.test.v0
+  description: A set of questions in arabic, around basic grammar, well known facts, and word meanings. Testing hallucinations and confident wrong answers.
+  metrics: [accuracy]
+test-arabic-questions.test.v0:
+  class: evals.elsuite.basic.includes:Includes
+  args:
+    samples_jsonl: test_arabic_questions/arabic_questions.jsonl
